@@ -1,5 +1,6 @@
 # Go Map Performance Testing
 
+This is to test the new hashmap implementation using [the Swiss Tables](https://tip.golang.org/doc/go1.24#runtime).
 This project demonstrates the performance of map operations in Go by measuring lookup, insertion, and deletion times. It includes Dockerfiles for two different versions of Go (1.23 and 1.24) to facilitate testing across versions.
 
 ## Project Structure
